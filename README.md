@@ -1,7 +1,6 @@
-# Calculatrice
+# Application Test
 
 > A Vue.js project
-
 
 
 ## Quick use
@@ -10,6 +9,7 @@
 ``` bash
 
 # install project
+git clone https://github.com/aymensp/audiocc-application-test.git
 cd calculator
 npm install
 npm run dev
