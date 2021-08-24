@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+ ### Gif
+  
+ ![ezgif com-crop(1)](https://github.com/aymensp/audiocc-application-test/blob/master/media/application.gif)
 
 ## Quick use
 
